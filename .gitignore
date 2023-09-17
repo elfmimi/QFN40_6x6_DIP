@@ -1,0 +1,9 @@
+.DS_Store
+fp-info-cache
+*~
+*.bak
+*-backups/
+*.kicad_prl
+**/gerber/*
+
+!*.lib
